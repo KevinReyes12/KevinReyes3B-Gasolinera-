@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\IsaacReyes3B\Gasolinera\bin\Debug\Gasolinera.exe.config
+C:\Users\pc\source\repos\IsaacReyes3B\Gasolinera\bin\Debug\Gasolinera.exe
+C:\Users\pc\source\repos\IsaacReyes3B\Gasolinera\bin\Debug\Gasolinera.pdb
+C:\Users\pc\source\repos\IsaacReyes3B\Gasolinera\obj\Debug\Gasolinera.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\IsaacReyes3B\Gasolinera\obj\Debug\Gasolinera.exe
+C:\Users\pc\source\repos\IsaacReyes3B\Gasolinera\obj\Debug\Gasolinera.pdb
