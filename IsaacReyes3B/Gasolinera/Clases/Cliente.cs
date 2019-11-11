@@ -24,14 +24,11 @@ namespace Gasolinera.Clases
             }
             set 
             {
-                if (Regex.IsMatch(value, @"\s?[a-zñA-ZÑ]"))
-                {
-                    //throw new Exception("Ingrese nombres");
-                }
-                else
+                if (!Regex.IsMatch(value, @"\s?[a-zñA-ZÑ]"))
                 {
                     throw new Exception("Ingrese nombres");
                 }
+               
                 nombres = value; 
             }
         }
